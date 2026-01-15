@@ -1,7 +1,6 @@
 # Vinay Kumar - Software Developer
 
-[![GitHub Stats](https://github-readme-stats.vercel.com/themiccc/themiccc?theme=dark&down_count=true&show_icons=true)](https://github.com/themiccc)
-[![GitHub Streak](https://streak.svg?user=themiccc)](https://github.com/themiccc)
+
 
 ## About Me
 
