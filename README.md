@@ -15,11 +15,6 @@ I'm a software developer passionate about building robust and scalable backend s
 
 ## Projects
 
-### FlashPay – Full-Stack Payment Simulation System (Mar 2025 - Jun 2025)
-*   **Problem:** Fintech startups often face challenges with payment flows, leading to revenue loss from failed OTPs/tokenization.
-*   **Solution:** Developed a React/Django platform simulating secure transactions, incorporating OTP verification and tokenized payments.
-*   **Impact:** Simulated real-time transactions with a 99% success rate, reducing integration bugs by 50% and boosting user trust.
-
 ### Reactlytics – YouTube Sentiment Analysis Tool (Mar 2025 - Apr 2025)
 *   **Problem:** Creators often miss valuable sentiment cues in YouTube comments, hindering their strategies.
 *   **Solution:** Integrated the YouTube API with TextBlob and Flask to perform live comment analysis and categorize sentiments.
