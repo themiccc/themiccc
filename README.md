@@ -4,7 +4,8 @@
 
 ## About Me
 
-I'm a software developer passionate about building robust and scalable backend solutions. I have a strong foundation in computer science and hands-on experience in Python, Django, and RESTful API development. I'm driven to solve complex problems and deliver high-quality code.
+Full Stack & AI Engineer bridging the gap between robust backend architecture and intelligent user interfaces. Proficient in building
+low-latency APIs with FastAPI and integrating GenAI agents into production workflows.
 
 ## Skills & Tech Stack
 
@@ -16,14 +17,17 @@ I'm a software developer passionate about building robust and scalable backend s
 ## Projects
 
 ### Reactlytics – YouTube Sentiment Analysis Tool (Mar 2025 - Apr 2025)
+ _Tech Used: React.js, Flask, TextBlob, YouTube API, Python, Requests_
 *   **Problem:** Creators often miss valuable sentiment cues in YouTube comments, hindering their strategies.
 *   **Solution:** Integrated the YouTube API with TextBlob and Flask to perform live comment analysis and categorize sentiments.
 *   **Impact:** Analyzed over 5,000 comments with 85% accuracy, enabling creators to make data-driven content adjustments.
 
-### Real-Time Price Aggregator Platform (Jun 2025 - Present)
-*   **Problem:** Users waste time and startups lose conversions due to outdated prices across various platforms.
-*   **Solution:** Designed and developed a monolithic backend with Kafka queues and WebSocket connections for real-time price updates.
-*   **Impact:** Synchronized prices with 95% accuracy for 1,000+ queries per second, slashing discrepancies and enhancing decision efficiency.
+### DeepReason – Autonomous Multi-Agent Research Engine (FEB 2026 – FEB 2026)
+_Tech Used : Python, LangGraph, DeepSeek-R1, Tavily API, Docker._
+*   **Problem:** Standard LLMs hallucinate on complex queries and lack the ability to perform deep, verifiable research, often providing shallow or outdated summaries.
+*   **Solution:** Architected a cyclic multi-agent system using LangGraph, featuring a "Supervisor" node that autonomously plans research strategies, executes parallel web searches via Tavily, and loops through a "Critic-Reflector" stage to verify facts.
+*   **Impact:** Achieved autonomous generation of verified reports with <2% hallucination rate, effectively reducing hours of manual deep research into minutes while maintaining strict data integrity.
+  
 
 ## Contact
 
